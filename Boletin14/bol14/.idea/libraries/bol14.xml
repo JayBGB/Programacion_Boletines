@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bol14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/bol14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
