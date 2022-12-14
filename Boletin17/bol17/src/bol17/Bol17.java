@@ -13,7 +13,8 @@ public class Bol17 {
     public static void main(String[] args) {
         
         DF.setRoundingMode(RoundingMode.UP);
-    
+       
+   do { 
     ProbasEscritas escrita = new ProbasEscritas();    
     float pEscrita=escrita.globalEscrita();
     
@@ -28,7 +29,10 @@ public class Bol17 {
     
     JOptionPane.showMessageDialog(null, "PROBAS TEÓRICAS.........."+DF.format(pEscrita)+"\nPROBA PRÁCTICA.........."+DF.format(pPractica)+"\nBOLETINS.........."+DF.format(pBoletines)+"\nNOTA TOTAL.........."+DF.format(notaTotal));
     
-    
+   }
+   
+   while (JOptionPane.showConfirmDialog(null, "¿Desexas calcular outra nota?")==0);
+   
         
     }
 }

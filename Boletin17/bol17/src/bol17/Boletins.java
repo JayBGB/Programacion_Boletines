@@ -25,7 +25,7 @@ public class Boletins {
                     nota=0f;
                  }
     
-    float notaGlobal = nota*0.2f;
+    float notaGlobal = nota;
     return notaGlobal;
 }
 }
