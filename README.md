@@ -1,7 +1,5 @@
 # Programacion_Boletines
 
-Boletín extra 2
-
 Boletin extra condicionales .2 y .3
 
 Boletin extra 3
