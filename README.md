@@ -16,6 +16,4 @@ Tarefa paquetes
 
 Boletin12.2
 
-Boletin 13
-
 Tarefa repaso estructuras
