@@ -18,8 +18,4 @@ Boletin12.2
 
 Boletin 13
 
-//REVISAR BOL15//
-
 Tarefa repaso estructuras
-
-En bol16 no sale el nombre
