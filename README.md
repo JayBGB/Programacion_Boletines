@@ -8,8 +8,6 @@ Boletin Repaso Repetitivas
 
 Repaso Atributos e Metodos
 
-Boletin 11
-
 Boletin teorico paquetes
 
 Tarefa paquetes
