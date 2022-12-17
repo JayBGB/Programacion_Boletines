@@ -1,7 +1,3 @@
-# Programacion_Boletines
-
-Boletin extra condicionales .2 y .3
-
-Boletin extra 3
-
-Boletin12.2
+# Boletines de Programación en Java
+## Desarrollo de Aplicaciones Multiplataforma 1
+### Borja García Barrera
